@@ -11,3 +11,5 @@ This was built over the course of one day during the Southwest Florida Regional 
 - Humidity
 
 This program takes input from each of the sensors and outputs standard JSON data to the serial interface. It could easily be adapted for the Wifi or network shields to be sent over TCP/IP. The JSON format is portable enough to allow for uploading the output to a database or converting to a spreadsheet for data visualization.
+
+![The Aftermath](https://raw.githubusercontent.com/justinzero/hackforchange/master/setup.jpg "Arduino Setup")
